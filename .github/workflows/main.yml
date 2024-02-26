@@ -25,10 +25,10 @@ jobs:
       run: dotnet restore --locked-mode
 
     - name: Build
-      run: dotnet build --no-restore --verbosity detailed
+      run: dotnet build
 
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test
 
     - name: Upload Artifacts
       uses: actions/upload-artifact@v2
