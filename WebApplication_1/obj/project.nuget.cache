@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LDBRGaRwfcVxm1gSEx8vZU8/B/+PlSGrkoprSG09vhS5/qr0b4KwELIs+XvTEaUUGddjBmLENKqh9aup3y5fXw==",
+  "dgSpecHash": "6H/3YJCYsLlRTh5sn4VqgEgugQ8c5vdnQJOihBHcdLWPBcbcXrx7AX0kNDsnbxOvg4pKEj1Ctq6EcnXN08jmyw==",
   "success": true,
   "projectFilePath": "/Users/shaanmugapriya/TestFinal506/WebApplication_1/WebApplication_1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/shaanmugapriya/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
